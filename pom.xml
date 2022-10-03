@@ -14,7 +14,7 @@
   <version>4.3.4-SNAPSHOT</version>
 
   <properties>
-    <stack.version>4.3.4-SNAPSHOT</stack.version>
+    <stack.version>4.3.4</stack.version>
     <doc.skip>true</doc.skip>
   </properties>
 
